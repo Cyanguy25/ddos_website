@@ -1,6 +1,11 @@
 * {
       margin: 0;
       padding: 0;
+      color: whitesmoke;
+}
+
+body {
+      background-color: rgb(27, 27, 27);
 }
 
 #heading1 {
