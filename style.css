@@ -43,7 +43,7 @@ body {
 }
 
 .main-img {
-  width: 40%;
+  width: 35%;
   border: 5px ridge var(--primarycolor);
   margin-top: 30px;
 }
