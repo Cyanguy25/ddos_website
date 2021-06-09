@@ -1,3 +1,9 @@
+:root {
+      --primarycolor: #2cacac;
+      --backgroundcolor: rgb(27, 27, 27);
+      --accentcolor: #411ba2;
+}
+
 * {
       margin: 0;
       padding: 0;
@@ -8,11 +14,35 @@ body {
       background-color: rgb(27, 27, 27);
 }
 
+.bar {
+      width: 100%;
+      height: 5px;
+      background-color: var(--accentcolor);
+      position: fixed;
+      z-index: 999;
+}
+
 #heading1 {
       font-family: 'Times New Roman', Times, serif;
       text-align: center;
 }
 
 .strong {
-      color: rgb(25, 116, 116);
+      color: var(--primarycolor);
+}
+
+.btn-outline-info {
+      color: var(--primarycolor);
+      border: 2px solid var(--primarycolor);
+}
+
+.btn-outline-info:hover {
+      color: var(--backgroundcolor);
+      background-color: var(--primarycolor);
+      border: 2px solid var(--primarycolor);
+}
+
+.main-img {
+      width: 30%;
+      border: 5px ridge var(--primarycolor);
 }
