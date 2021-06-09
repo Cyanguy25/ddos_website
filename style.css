@@ -1,0 +1,13 @@
+* {
+      margin: 0;
+      padding: 0;
+}
+
+#heading1 {
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+}
+
+.strong {
+      color: rgb(25, 116, 116);
+}
