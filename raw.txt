@@ -1,0 +1,13 @@
+"DDoS" stands for Distributed Denial of Service. It is a form of cyberattack that can do a few things:
+It can shutdown, crash or stop a server
+Block access to a website, domain or server
+Demand money in order to allow access once again, i.e. a ransom in order to use your site or server
+
+DDoS attacks can happen in a variety of ways, but they often use what is called a botnet, or a hacked group of computers not owned by the attacker/s. You can read through such a scenario below:
+The hacker first uses a faked email account from a legitimate company to send around a file that secretly controls the user's computer and forwards the email to their entire contact list.
+Next, once the botnet has amassed enough devices, from printers connected to the internet, to Samsung Smart Fridges, from an Xbox plugged in to wifi or your phone, the DDoS attack can begin.
+The actual DDoS attack is quite simple. It is simply sending information or requesting it from the target, so much so that it cannot handle the load and it stops. Think of it as sending a massive amount of text messages from many different phones, all to the same number so that eventually the receiver's device crashes and stops functioning. Then it is possible for the hackers to demand money, or otherwise they'll keep sending messages, continually preventing access.
+
+Images:
+DDoS Hacker Hacking: https://images.idgesg.net/images/article/2019/09/cso_nw_ddos_attacks_by_stevanovicigor_aka_igor_stevanovic_gettyimages-948533056_2400x1600-100811283-large.jpg
+DDoS Diagram: https://www.xantaro.net/wp-content/uploads/2018/04/Xantaro_DDoS_Overview-1024x819.png

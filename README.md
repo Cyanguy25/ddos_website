@@ -2,6 +2,4 @@
 
 sheeesh
 
-# e ddos go brrrr
-
-Welcome to the DDOS INFORMATIOONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+# by aritra and lucas
