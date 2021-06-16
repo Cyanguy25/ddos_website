@@ -16,24 +16,33 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-custom">
     <div class="container-fluid">
       <a class="navbar-brand strong" href="index.html">
         <i class="fa fa-code fa-2x strong" aria-hidden="true"></i>
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse position-inline" id="navbarNav">
-        <ul class="
-              navbar-nav
-              position-absolute
-              top-50
-              end-0
-              translate-middle-y
-              pe-4
-            ">
+        <ul
+          class="
+            navbar-nav
+            position-absolute
+            top-50
+            end-0
+            translate-middle-y
+            pe-4
+          "
+        >
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="index.html">Home</a>
           </li>
@@ -43,8 +52,14 @@
           <li class="nav-item">
             <a class="nav-link" href="safety.html">Cyber Safety</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="authors.html">Authors</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Authors
+            </a>
+            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+              <li><a class="dropdown-item" href="aritra.html">Aritra </a></li>
+              <li><a class="dropdown-item" href="lucas.html">Lucas</a></li>
+            </ul>
           </li>
         </ul>
       </div>

@@ -52,3 +52,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.navbar-custom {
+  background-image: url(nav-background.jpg);
+}
