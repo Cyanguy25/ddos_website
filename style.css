@@ -56,3 +56,9 @@ body {
 .navbar-custom {
   background-image: url(nav-background.jpg);
 }
+
+.table {
+  margin: auto;
+  margin-bottom: 50px;
+  width: 75%;
+}
